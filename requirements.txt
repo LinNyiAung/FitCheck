@@ -1,0 +1,8 @@
+# CPU build of torch is enough; install it first with:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.4
+anny==0.6.1
+numpy
+scipy
+fastapi
+uvicorn
